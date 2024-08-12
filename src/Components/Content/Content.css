@@ -1,0 +1,7 @@
+.ContentCard {
+    border: 1px solid;
+    background-color: antiquewhite;
+    margin: 5px;
+    box-shadow: 1px 1px 1px 1px;
+    width: 350px;
+}
